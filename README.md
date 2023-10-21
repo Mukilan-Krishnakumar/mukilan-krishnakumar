@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mukilan Krishnakumar. I am immensely passionate about Artifical Intelligence and Machine Learning. I have built few projects out of self-interest, you can check them out below. I also like Running. 
+I am Mukilan Krishnakumar. I am immensely passionate about Artifical Intelligence and Machine Learning. I have built few projects out of self-interest, you can check them out below. I also like Running and reading Murakami.
 
 <!--
 **Mukilan-Krishnakumar/mukilan-krishnakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
